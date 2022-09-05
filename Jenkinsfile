@@ -17,4 +17,7 @@ pipeline {
                 build job: 'Deploy_App'
  
             }
+        }    
+    }
+}    
         
